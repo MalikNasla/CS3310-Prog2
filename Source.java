@@ -2,8 +2,8 @@
 /* Malik Nasla                      */
 /* Bronco ID: 016190707             */
 /* CS 3310, Fall 2023               */
-/* Programming Assignment 1         */
-/* Depth First Search algorithm     */
+/* Programming Assignment 2         */
+/* Anagram Finder                   */
 /************************************/
 
 import java.io.File;
@@ -14,7 +14,6 @@ import java.util.Set;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class Source{
     public static void main(String[] args) throws FileNotFoundException{

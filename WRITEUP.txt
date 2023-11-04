@@ -1,0 +1,4 @@
+The theoretical worst-case running time of the algorithm implemented is O(n). This is the case because the first for loop of the algorithm 
+has a time complexity of O(n) where n is the amount of key value pairs in the map. The second for loop of the algorithm has a time complexity
+of O(k-m) where k is the amount of ordered words and m is the amount of distince ordered words. The overall time complexity would be O(n*(k-m))
+which would simplify to O(n).
